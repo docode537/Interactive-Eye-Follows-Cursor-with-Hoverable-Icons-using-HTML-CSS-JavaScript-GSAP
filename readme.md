@@ -47,7 +47,7 @@ Explore the complete explanation in the blog post:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/docode537/eye-follow-cursor-with-skill-hover-effects
+git clone https://github.com/docode537/Interactive-Eye-Follows-Cursor-with-Hoverable-Icons-using-HTML-CSS-JavaScript-GSAP
 
 ---
 ## 📩 Connect With Me
