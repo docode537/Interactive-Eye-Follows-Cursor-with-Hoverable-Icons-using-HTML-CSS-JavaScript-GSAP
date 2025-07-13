@@ -18,7 +18,7 @@ Watch the full step-by-step implementation:
 
 ## 📝 Read Blog Post  
 Explore the complete explanation in the blog post:  
-[📰 Read Blog](#)
+[📰 Read Blog](https://docode.co.in/post/interactive-eye-follows-cursor-with-hoverable-icons-using-html-css-javascript-gsap)
 
 ---
 
